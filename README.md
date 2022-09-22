@@ -1,10 +1,8 @@
-[![MasterHead](https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47zaz9nwg9i70v5dpm4opd0ixzq4si80kg9x8cvuou&rid=giphy.gif&ct=g)](https://BHkrampus.io)
+[![MasterHead](http://lamcdn.net/hopesandfears.com/post-cover/dLYfYLBGDmmQ3DSWcfNk8Q-default.gif)](https://BHkrampus.io)
 <h1 align="center">Hi 👋, I'm shivam</h1>
 <h3 align="center">A passionate frontend and software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47847bwm15akl6bqz9lxnvstk2vrhefzokzugaqfmf&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhkrampus&label=Profile%20views&color=0e75b6&style=flat" alt="bhkrampus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhkrampus" alt="bhkrampus" /></a> </p>
 
 - 🌱 I’m currently learning **SQL,DSA.**
 
